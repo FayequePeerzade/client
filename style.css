@@ -1,0 +1,7 @@
+#home{
+  background-size: cover;
+    height: 5vh;
+    display: flex;
+    justify-content:left;
+    align-items: top;	
+}
