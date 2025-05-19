@@ -1,0 +1,17 @@
+.add-habit-container {
+  padding: 2rem;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.add-habit-container form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.add-habit-container input {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
